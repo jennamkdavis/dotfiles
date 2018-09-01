@@ -32,8 +32,8 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 # convenience
 #
 
-export EMAIL=zhang.michelle.d@gmail.com
-export FULL_NAME="Michelle D Zhang"
+export EMAIL=jennamkdavis@gmail.com
+export FULL_NAME="Jenna Davis"
 
 export GHQ_ROOT="$HOME/src"
 export ANYENV_ROOT="$XDG_DATA_HOME/anyenv"

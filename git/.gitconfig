@@ -103,12 +103,12 @@
 
 [user]
 
-  name = Michelle D Zhang
-  email = zhang.michelle.d@gmail.com
+  name = Jenna Davis
+  email = jennamkdavis@gmail.com
 
 [commit]
 
-	gpgsign = true
+	gpgsign = false
 
 [gpg]
 
